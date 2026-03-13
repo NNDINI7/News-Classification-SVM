@@ -22,6 +22,7 @@ The project demonstrates the **complete machine learning workflow**:
 
 **Dataset Source:**  
 BBC News Dataset
+https://www.kaggle.com/datasets/yufengdev/bbc-fulltext-and-category
 
 The dataset contains news articles categorized into different topics such as:
 
